@@ -1,0 +1,29 @@
+{
+  "name": "medium-patrick-isidoro-crud-nodejs-express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GleidsonDuarte/medium-patrick-isidoro-crud-nodejs-express-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GleidsonDuarte/medium-patrick-isidoro-crud-nodejs-express-mongo/issues"
+  },
+  "homepage": "https://github.com/GleidsonDuarte/medium-patrick-isidoro-crud-nodejs-express-mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
